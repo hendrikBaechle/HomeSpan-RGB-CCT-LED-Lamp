@@ -8,7 +8,7 @@ float combinedWhite;
 #include "extras/PwmPin.h"                          // library of various PWM functions
 
 int TemperatureLED_cold = 166; // The Color Temperature of your colder LED, mine is 6024K (1000000/6024 = 166)
-int TemperatureLED_warm = 400; // The Color Temperature of your colder LED, mine is 2500K (1000000/2500 = 400)
+int TemperatureLED_warm = 400; // The Color Temperature of your warmer LED, mine is 2500K (1000000/2500 = 400)
 
 //////////////////////////////////
 
